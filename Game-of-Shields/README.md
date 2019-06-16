@@ -1,5 +1,5 @@
 # Game of Shield 
-Game of Shields is a memory game built with React. 
+**Game of Shields** (Clicky Game) is a memory game built with React. 
 ![Game of Shields Screenshot](client/public/game-of-shields.png)
 
 #### How to play the game
